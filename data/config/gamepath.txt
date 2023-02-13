@@ -1,0 +1,1 @@
+{"list":{"内置目录": {"path": "data/.minecraft/", "can_delete": 0}}, "default": 0}
